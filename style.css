@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: url(desk-BG.png);
+    background-size: 1536px;
+    font-family: 'Roboto', sans-serif;
+}
+#div-1 {
+    background-color: #161313c5;
+    width: 1515px;
+    height: 70px;
+      text-align: center;
+      border-radius: 10px;
+      margin-top: 689.5px;
+}
+.dock-img {
+  width: 55px;
+}
+.dock-img:hover {
+  width: 66px;
+  transition: 0.1s;
+}

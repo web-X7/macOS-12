@@ -1,0 +1,37 @@
+body {
+    background: url(desk-BG.png);
+    background-size: 1536px;
+    font-family: 'Roboto', sans-serif;
+}
+#div-1 {
+    background-color: #161313c5;
+    width: 1515px;
+    height: 70px;
+      text-align: center;
+      border-radius: 10px;
+      margin-top: 554px;
+}
+.dock-img {
+  width: 55px;
+}
+.dock-img:hover {
+  width: 66px;
+  transition: 0.1s;
+}
+#error {
+  background-color: #ffffff;
+    width: 600px;
+    height: 400px;
+      text-align: center;
+      border-radius: 10px;
+      margin-top: 30px;
+      text-align: left;
+}
+#close {
+  border-radius: 10px;
+  width: 60px;
+}
+h1 {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
