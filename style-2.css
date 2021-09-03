@@ -26,6 +26,7 @@ body {
       border-radius: 10px;
       margin-top: 30px;
       text-align: left;
+text-decoration: none;
 }
 #close {
   border-radius: 10px;
