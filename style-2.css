@@ -15,7 +15,7 @@ body {
   width: 55px;
 }
 .dock-img:hover {
-  width: 66px;
+  width: 70px;
   transition: 0.1s;
 }
 #error {
